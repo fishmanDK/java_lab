@@ -1,0 +1,1826 @@
+окт. 29, 2023 4:04:23 PM lab4.logger_lab4 log
+INFO: Start program
+окт. 29, 2023 4:04:24 PM lab4.logger_lab4 log
+INFO: ArrayList
+окт. 29, 2023 4:04:24 PM lab4.logger_lab4 log
+INFO: add, ind-1:  638000,000 ArrayList
+окт. 29, 2023 4:04:24 PM lab4.logger_lab4 log
+INFO: add, ind-2:  10959,000 ArrayList
+окт. 29, 2023 4:04:24 PM lab4.logger_lab4 log
+INFO: add, ind-3:  10125,000 ArrayList
+окт. 29, 2023 4:04:24 PM lab4.logger_lab4 log
+INFO: add, ind-4:  13542,000 ArrayList
+окт. 29, 2023 4:04:24 PM lab4.logger_lab4 log
+INFO: add, ind-5:  10583,000 ArrayList
+окт. 29, 2023 4:04:24 PM lab4.logger_lab4 log
+INFO: add, ind-6:  10042,000 ArrayList
+окт. 29, 2023 4:04:24 PM lab4.logger_lab4 log
+INFO: add, ind-7:  11917,000 ArrayList
+окт. 29, 2023 4:04:24 PM lab4.logger_lab4 log
+INFO: add, ind-8:  10458,000 ArrayList
+окт. 29, 2023 4:04:24 PM lab4.logger_lab4 log
+INFO: add, ind-9:  11458,000 ArrayList
+окт. 29, 2023 4:04:24 PM lab4.logger_lab4 log
+INFO: add, ind-10:  11709,000 ArrayList
+окт. 29, 2023 4:04:24 PM lab4.logger_lab4 log
+INFO: totalTime: 6146541,000 ArrayList
+окт. 29, 2023 4:04:24 PM lab4.logger_lab4 log
+INFO: remove ArrayList: 333,000
+окт. 29, 2023 4:04:24 PM lab4.logger_lab4 log
+INFO: srTime ArrayList: 73879,000
+окт. 29, 2023 4:04:24 PM lab4.logger_lab4 log
+INFO: Start program
+окт. 29, 2023 4:04:24 PM lab4.logger_lab4 log
+INFO: ArrayList
+окт. 29, 2023 4:04:24 PM lab4.logger_lab4 log
+INFO: add, ind-1:  13250,000 HashMap
+окт. 29, 2023 4:04:24 PM lab4.logger_lab4 log
+INFO: add, ind-2:  9834,000 HashMap
+окт. 29, 2023 4:04:24 PM lab4.logger_lab4 log
+INFO: add, ind-3:  9833,000 HashMap
+окт. 29, 2023 4:04:24 PM lab4.logger_lab4 log
+INFO: add, ind-4:  8958,000 HashMap
+окт. 29, 2023 4:04:24 PM lab4.logger_lab4 log
+INFO: add, ind-5:  8792,000 HashMap
+окт. 29, 2023 4:04:24 PM lab4.logger_lab4 log
+INFO: add, ind-6:  9042,000 HashMap
+окт. 29, 2023 4:04:24 PM lab4.logger_lab4 log
+INFO: add, ind-7:  9334,000 HashMap
+окт. 29, 2023 4:04:24 PM lab4.logger_lab4 log
+INFO: add, ind-8:  8916,000 HashMap
+окт. 29, 2023 4:04:24 PM lab4.logger_lab4 log
+INFO: add, ind-9:  8666,000 HashMap
+окт. 29, 2023 4:04:24 PM lab4.logger_lab4 log
+INFO: add, ind-10:  9042,000 HashMap
+окт. 29, 2023 4:04:24 PM lab4.logger_lab4 log
+INFO: totalTime: 3383084,000 HashMap
+окт. 29, 2023 4:04:24 PM lab4.logger_lab4 log
+INFO: remove ArrayList: 250,000 HashMap
+окт. 29, 2023 4:04:24 PM lab4.logger_lab4 log
+INFO: srTime: 9566,000 HashMap
+окт. 29, 2023 4:07:13 PM lab4.logger_lab4 log
+INFO: Start program
+окт. 29, 2023 4:07:13 PM lab4.logger_lab4 log
+INFO: ArrayList
+окт. 29, 2023 4:07:13 PM lab4.logger_lab4 log
+INFO: add, ind-1:  389916,000 ArrayList
+окт. 29, 2023 4:07:13 PM lab4.logger_lab4 log
+INFO: add, ind-2:  10250,000 ArrayList
+окт. 29, 2023 4:07:13 PM lab4.logger_lab4 log
+INFO: add, ind-3:  9250,000 ArrayList
+окт. 29, 2023 4:07:13 PM lab4.logger_lab4 log
+INFO: add, ind-4:  9125,000 ArrayList
+окт. 29, 2023 4:07:13 PM lab4.logger_lab4 log
+INFO: add, ind-5:  9041,000 ArrayList
+окт. 29, 2023 4:07:13 PM lab4.logger_lab4 log
+INFO: add, ind-6:  8833,000 ArrayList
+окт. 29, 2023 4:07:13 PM lab4.logger_lab4 log
+INFO: add, ind-7:  10167,000 ArrayList
+окт. 29, 2023 4:07:13 PM lab4.logger_lab4 log
+INFO: add, ind-8:  9083,000 ArrayList
+окт. 29, 2023 4:07:13 PM lab4.logger_lab4 log
+INFO: add, ind-9:  11500,000 ArrayList
+окт. 29, 2023 4:07:13 PM lab4.logger_lab4 log
+INFO: add, ind-10:  10375,000 ArrayList
+окт. 29, 2023 4:07:13 PM lab4.logger_lab4 log
+INFO: totalTime: 5432834,000 ArrayList
+окт. 29, 2023 4:07:13 PM lab4.logger_lab4 log
+INFO: remove ArrayList: 333,000
+окт. 29, 2023 4:07:13 PM lab4.logger_lab4 log
+INFO: srTime ArrayList: 47754,000
+окт. 29, 2023 4:07:13 PM lab4.logger_lab4 log
+INFO: Start program
+окт. 29, 2023 4:07:13 PM lab4.logger_lab4 log
+INFO: ArrayList
+окт. 29, 2023 4:07:13 PM lab4.logger_lab4 log
+INFO: add, ind-1:  11333,000 HashMap
+окт. 29, 2023 4:07:13 PM lab4.logger_lab4 log
+INFO: add, ind-2:  9292,000 HashMap
+окт. 29, 2023 4:07:13 PM lab4.logger_lab4 log
+INFO: add, ind-3:  8625,000 HashMap
+окт. 29, 2023 4:07:13 PM lab4.logger_lab4 log
+INFO: add, ind-4:  8750,000 HashMap
+окт. 29, 2023 4:07:13 PM lab4.logger_lab4 log
+INFO: add, ind-5:  8541,000 HashMap
+окт. 29, 2023 4:07:13 PM lab4.logger_lab4 log
+INFO: add, ind-6:  8666,000 HashMap
+окт. 29, 2023 4:07:13 PM lab4.logger_lab4 log
+INFO: add, ind-7:  8208,000 HashMap
+окт. 29, 2023 4:07:13 PM lab4.logger_lab4 log
+INFO: add, ind-8:  7791,000 HashMap
+окт. 29, 2023 4:07:13 PM lab4.logger_lab4 log
+INFO: add, ind-9:  8000,000 HashMap
+окт. 29, 2023 4:07:13 PM lab4.logger_lab4 log
+INFO: add, ind-10:  8542,000 HashMap
+окт. 29, 2023 4:07:13 PM lab4.logger_lab4 log
+INFO: totalTime: 3284041,000 HashMap
+окт. 29, 2023 4:07:13 PM lab4.logger_lab4 log
+INFO: remove ArrayList: 292,000 HashMap
+окт. 29, 2023 4:07:13 PM lab4.logger_lab4 log
+INFO: srTime: 8774,000 HashMap
+окт. 29, 2023 4:26:41 PM lab4.logger_lab4 log
+INFO: Start program
+окт. 29, 2023 4:26:41 PM lab4.logger_lab4 log
+INFO: ArrayList
+окт. 29, 2023 4:26:41 PM lab4.logger_lab4 log
+INFO: add, ind-1:  615750,000 ArrayList
+окт. 29, 2023 4:26:41 PM lab4.logger_lab4 log
+INFO: add, ind-2:  10833,000 ArrayList
+окт. 29, 2023 4:26:41 PM lab4.logger_lab4 log
+INFO: add, ind-3:  8875,000 ArrayList
+окт. 29, 2023 4:26:41 PM lab4.logger_lab4 log
+INFO: add, ind-4:  8958,000 ArrayList
+окт. 29, 2023 4:26:41 PM lab4.logger_lab4 log
+INFO: add, ind-5:  9125,000 ArrayList
+окт. 29, 2023 4:26:41 PM lab4.logger_lab4 log
+INFO: add, ind-6:  9917,000 ArrayList
+окт. 29, 2023 4:26:41 PM lab4.logger_lab4 log
+INFO: add, ind-7:  9416,000 ArrayList
+окт. 29, 2023 4:26:41 PM lab4.logger_lab4 log
+INFO: add, ind-8:  8917,000 ArrayList
+окт. 29, 2023 4:26:41 PM lab4.logger_lab4 log
+INFO: add, ind-9:  9833,000 ArrayList
+окт. 29, 2023 4:26:41 PM lab4.logger_lab4 log
+INFO: add, ind-10:  9500,000 ArrayList
+окт. 29, 2023 4:26:41 PM lab4.logger_lab4 log
+INFO: totalTime: 5536292,000 ArrayList
+окт. 29, 2023 4:26:41 PM lab4.logger_lab4 log
+INFO: remove ArrayList: 291,000
+окт. 29, 2023 4:26:41 PM lab4.logger_lab4 log
+INFO: srTime ArrayList: 70112,000
+окт. 29, 2023 4:26:41 PM lab4.logger_lab4 log
+INFO: Start program
+окт. 29, 2023 4:26:41 PM lab4.logger_lab4 log
+INFO: ArrayList
+окт. 29, 2023 4:26:41 PM lab4.logger_lab4 log
+INFO: add, ind-1:  24833,000 HashMap
+окт. 29, 2023 4:26:41 PM lab4.logger_lab4 log
+INFO: add, ind-2:  8750,000 HashMap
+окт. 29, 2023 4:26:41 PM lab4.logger_lab4 log
+INFO: add, ind-3:  8125,000 HashMap
+окт. 29, 2023 4:26:41 PM lab4.logger_lab4 log
+INFO: add, ind-4:  8167,000 HashMap
+окт. 29, 2023 4:26:41 PM lab4.logger_lab4 log
+INFO: add, ind-5:  8250,000 HashMap
+окт. 29, 2023 4:26:41 PM lab4.logger_lab4 log
+INFO: add, ind-6:  8000,000 HashMap
+окт. 29, 2023 4:26:41 PM lab4.logger_lab4 log
+INFO: add, ind-7:  8209,000 HashMap
+окт. 29, 2023 4:26:41 PM lab4.logger_lab4 log
+INFO: add, ind-8:  8083,000 HashMap
+окт. 29, 2023 4:26:41 PM lab4.logger_lab4 log
+INFO: add, ind-9:  7958,000 HashMap
+окт. 29, 2023 4:26:41 PM lab4.logger_lab4 log
+INFO: add, ind-10:  8209,000 HashMap
+окт. 29, 2023 4:26:41 PM lab4.logger_lab4 log
+INFO: totalTime: 3198417,000 HashMap
+окт. 29, 2023 4:26:41 PM lab4.logger_lab4 log
+INFO: remove ArrayList: 250,000 HashMap
+окт. 29, 2023 4:26:41 PM lab4.logger_lab4 log
+INFO: srTime: 9858,000 HashMap
+окт. 29, 2023 4:28:30 PM lab4.logger_lab4 log
+INFO: Start program
+окт. 29, 2023 4:28:30 PM lab4.logger_lab4 log
+INFO: ArrayList
+окт. 29, 2023 4:28:30 PM lab4.logger_lab4 log
+INFO: add, ind-1:  555791,000 ArrayList
+окт. 29, 2023 4:28:30 PM lab4.logger_lab4 log
+INFO: add, ind-2:  11292,000 ArrayList
+окт. 29, 2023 4:28:30 PM lab4.logger_lab4 log
+INFO: add, ind-3:  10792,000 ArrayList
+окт. 29, 2023 4:28:30 PM lab4.logger_lab4 log
+INFO: add, ind-4:  12042,000 ArrayList
+окт. 29, 2023 4:28:30 PM lab4.logger_lab4 log
+INFO: add, ind-5:  9333,000 ArrayList
+окт. 29, 2023 4:28:30 PM lab4.logger_lab4 log
+INFO: add, ind-6:  8958,000 ArrayList
+окт. 29, 2023 4:28:30 PM lab4.logger_lab4 log
+INFO: add, ind-7:  8875,000 ArrayList
+окт. 29, 2023 4:28:30 PM lab4.logger_lab4 log
+INFO: add, ind-8:  8666,000 ArrayList
+окт. 29, 2023 4:28:30 PM lab4.logger_lab4 log
+INFO: add, ind-9:  11334,000 ArrayList
+окт. 29, 2023 4:28:30 PM lab4.logger_lab4 log
+INFO: add, ind-10:  9417,000 ArrayList
+окт. 29, 2023 4:28:30 PM lab4.logger_lab4 log
+INFO: totalTime: 5842791,000 ArrayList
+окт. 29, 2023 4:28:30 PM lab4.logger_lab4 log
+INFO: remove ArrayList: 334,000
+окт. 29, 2023 4:28:30 PM lab4.logger_lab4 log
+INFO: srTime ArrayList: 64650,000
+окт. 29, 2023 4:28:30 PM lab4.logger_lab4 log
+INFO: Start program
+окт. 29, 2023 4:28:30 PM lab4.logger_lab4 log
+INFO: ArrayList
+окт. 29, 2023 4:28:30 PM lab4.logger_lab4 log
+INFO: add, ind-1:  11167,000 HashMap
+окт. 29, 2023 4:28:30 PM lab4.logger_lab4 log
+INFO: add, ind-2:  9125,000 HashMap
+окт. 29, 2023 4:28:30 PM lab4.logger_lab4 log
+INFO: add, ind-3:  8542,000 HashMap
+окт. 29, 2023 4:28:30 PM lab4.logger_lab4 log
+INFO: add, ind-4:  8667,000 HashMap
+окт. 29, 2023 4:28:30 PM lab4.logger_lab4 log
+INFO: add, ind-5:  8584,000 HashMap
+окт. 29, 2023 4:28:30 PM lab4.logger_lab4 log
+INFO: add, ind-6:  7875,000 HashMap
+окт. 29, 2023 4:28:30 PM lab4.logger_lab4 log
+INFO: add, ind-7:  8250,000 HashMap
+окт. 29, 2023 4:28:30 PM lab4.logger_lab4 log
+INFO: add, ind-8:  8000,000 HashMap
+окт. 29, 2023 4:28:30 PM lab4.logger_lab4 log
+INFO: add, ind-9:  7917,000 HashMap
+окт. 29, 2023 4:28:30 PM lab4.logger_lab4 log
+INFO: add, ind-10:  8375,000 HashMap
+окт. 29, 2023 4:28:30 PM lab4.logger_lab4 log
+INFO: totalTime: 3191542,000 HashMap
+окт. 29, 2023 4:28:30 PM lab4.logger_lab4 log
+INFO: remove ArrayList: 250,000 HashMap
+окт. 29, 2023 4:28:30 PM lab4.logger_lab4 log
+INFO: srTime: 8650,000 HashMap
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: Start program
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: ArrayList
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: add, ind-1:  503708,000 ArrayList
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: add, ind-2:  9958,000 ArrayList
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: add, ind-3:  9250,000 ArrayList
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: add, ind-4:  9708,000 ArrayList
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: add, ind-5:  10416,000 ArrayList
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: add, ind-6:  9042,000 ArrayList
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: add, ind-7:  8792,000 ArrayList
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: add, ind-8:  8917,000 ArrayList
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: add, ind-9:  9792,000 ArrayList
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: add, ind-10:  9208,000 ArrayList
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: totalTime: 5491166,000 ArrayList
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: remove ArrayList: 291,000
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: srTime ArrayList: 58879,000
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: Start program
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: ArrayList
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: add, ind-1:  12583,000 HashMap
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: add, ind-2:  9666,000 HashMap
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: add, ind-3:  8916,000 HashMap
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: add, ind-4:  8833,000 HashMap
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: add, ind-5:  9000,000 HashMap
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: add, ind-6:  9333,000 HashMap
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: add, ind-7:  10834,000 HashMap
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: add, ind-8:  8000,000 HashMap
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: add, ind-9:  8083,000 HashMap
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: add, ind-10:  8291,000 HashMap
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: totalTime: 3124500,000 HashMap
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: remove ArrayList: 250,000 HashMap
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: srTime: 9353,000 HashMap
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: Start program
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: ArrayList
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: add, ind-1:  11000,000 ArrayList
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: add, ind-2:  7125,000 ArrayList
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: add, ind-3:  6625,000 ArrayList
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: add, ind-4:  18333,000 ArrayList
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: add, ind-5:  7125,000 ArrayList
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: add, ind-6:  7042,000 ArrayList
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: add, ind-7:  6708,000 ArrayList
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: add, ind-8:  6167,000 ArrayList
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: add, ind-9:  6208,000 ArrayList
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: add, ind-10:  6458,000 ArrayList
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: totalTime: 3111833,000 ArrayList
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: remove ArrayList: 333,000
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: srTime ArrayList: 8279,000
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: Start program
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: ArrayList
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: add, ind-1:  8167,000 HashMap
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: add, ind-2:  6500,000 HashMap
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: add, ind-3:  6959,000 HashMap
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: add, ind-4:  10792,000 HashMap
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: add, ind-5:  6625,000 HashMap
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: add, ind-6:  6709,000 HashMap
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: add, ind-7:  7084,000 HashMap
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: add, ind-8:  15166,000 HashMap
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: add, ind-9:  7125,000 HashMap
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: add, ind-10:  9542,000 HashMap
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: totalTime: 3087792,000 HashMap
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: remove ArrayList: 292,000 HashMap
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: srTime: 8466,000 HashMap
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: Start program
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: ArrayList
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: add, ind-1:  9709,000 ArrayList
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: add, ind-2:  6000,000 ArrayList
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: add, ind-3:  6500,000 ArrayList
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: add, ind-4:  6000,000 ArrayList
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: add, ind-5:  7042,000 ArrayList
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: add, ind-6:  6209,000 ArrayList
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: add, ind-7:  10084,000 ArrayList
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: add, ind-8:  6167,000 ArrayList
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: add, ind-9:  5583,000 ArrayList
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: add, ind-10:  7709,000 ArrayList
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: totalTime: 1690292,000 ArrayList
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: remove ArrayList: 208,000
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: srTime ArrayList: 7100,000
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: Start program
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: ArrayList
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: add, ind-1:  11541,000 HashMap
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: add, ind-2:  5375,000 HashMap
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: add, ind-3:  5833,000 HashMap
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: add, ind-4:  6833,000 HashMap
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: add, ind-5:  5667,000 HashMap
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: add, ind-6:  5458,000 HashMap
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: add, ind-7:  5000,000 HashMap
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: add, ind-8:  6500,000 HashMap
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: add, ind-9:  4334,000 HashMap
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: add, ind-10:  3958,000 HashMap
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: totalTime: 1388250,000 HashMap
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: remove ArrayList: 167,000 HashMap
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: srTime: 6049,000 HashMap
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: Start program
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: ArrayList
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: add, ind-1:  10958,000 ArrayList
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: add, ind-2:  3667,000 ArrayList
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: add, ind-3:  4875,000 ArrayList
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: add, ind-4:  4875,000 ArrayList
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: add, ind-5:  3167,000 ArrayList
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: add, ind-6:  3292,000 ArrayList
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: add, ind-7:  4292,000 ArrayList
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: add, ind-8:  3250,000 ArrayList
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: add, ind-9:  2958,000 ArrayList
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: add, ind-10:  4625,000 ArrayList
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: totalTime: 1516792,000 ArrayList
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: remove ArrayList: 208,000
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: srTime ArrayList: 4595,000
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: Start program
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: ArrayList
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: add, ind-1:  4250,000 HashMap
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: add, ind-2:  3416,000 HashMap
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: add, ind-3:  4042,000 HashMap
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: add, ind-4:  3333,000 HashMap
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: add, ind-5:  4375,000 HashMap
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: add, ind-6:  3625,000 HashMap
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: add, ind-7:  3167,000 HashMap
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: add, ind-8:  3750,000 HashMap
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: add, ind-9:  24166,000 HashMap
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: add, ind-10:  32958,000 HashMap
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: totalTime: 1705959,000 HashMap
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: remove ArrayList: 292,000 HashMap
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: srTime: 8708,000 HashMap
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: Start program
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: ArrayList
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: add, ind-1:  11500,000 ArrayList
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: add, ind-2:  4500,000 ArrayList
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: add, ind-3:  2792,000 ArrayList
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: add, ind-4:  3084,000 ArrayList
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: add, ind-5:  13292,000 ArrayList
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: add, ind-6:  5125,000 ArrayList
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: add, ind-7:  4209,000 ArrayList
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: add, ind-8:  4208,000 ArrayList
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: add, ind-9:  3709,000 ArrayList
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: add, ind-10:  4209,000 ArrayList
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: totalTime: 1321083,000 ArrayList
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: remove ArrayList: 167,000
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: srTime ArrayList: 5662,000
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: Start program
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: ArrayList
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: add, ind-1:  4708,000 HashMap
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: add, ind-2:  3375,000 HashMap
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: add, ind-3:  3041,000 HashMap
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: add, ind-4:  2917,000 HashMap
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: add, ind-5:  2791,000 HashMap
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: add, ind-6:  2750,000 HashMap
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: add, ind-7:  2958,000 HashMap
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: add, ind-8:  2667,000 HashMap
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: add, ind-9:  2667,000 HashMap
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: add, ind-10:  2709,000 HashMap
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: totalTime: 838333,000 HashMap
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: remove ArrayList: 167,000 HashMap
+окт. 29, 2023 4:29:07 PM lab4.logger_lab4 log
+INFO: srTime: 3058,000 HashMap
+окт. 29, 2023 4:30:44 PM lab4.logger_lab4 log
+INFO: Start program
+окт. 29, 2023 4:30:44 PM lab4.logger_lab4 log
+INFO: ArrayList
+окт. 29, 2023 4:30:44 PM lab4.logger_lab4 log
+INFO: add, ind-1:  662334,000 ArrayList
+окт. 29, 2023 4:30:44 PM lab4.logger_lab4 log
+INFO: add, ind-2:  11000,000 ArrayList
+окт. 29, 2023 4:30:44 PM lab4.logger_lab4 log
+INFO: add, ind-3:  9250,000 ArrayList
+окт. 29, 2023 4:30:44 PM lab4.logger_lab4 log
+INFO: add, ind-4:  8833,000 ArrayList
+окт. 29, 2023 4:30:44 PM lab4.logger_lab4 log
+INFO: add, ind-5:  8875,000 ArrayList
+окт. 29, 2023 4:30:44 PM lab4.logger_lab4 log
+INFO: add, ind-6:  8958,000 ArrayList
+окт. 29, 2023 4:30:44 PM lab4.logger_lab4 log
+INFO: add, ind-7:  10041,000 ArrayList
+окт. 29, 2023 4:30:44 PM lab4.logger_lab4 log
+INFO: add, ind-8:  9208,000 ArrayList
+окт. 29, 2023 4:30:44 PM lab4.logger_lab4 log
+INFO: add, ind-9:  13791,000 ArrayList
+окт. 29, 2023 4:30:44 PM lab4.logger_lab4 log
+INFO: add, ind-10:  10000,000 ArrayList
+окт. 29, 2023 4:30:44 PM lab4.logger_lab4 log
+INFO: totalTime: 5771125,000 ArrayList
+окт. 29, 2023 4:30:44 PM lab4.logger_lab4 log
+INFO: remove ArrayList: 291,000
+окт. 29, 2023 4:30:44 PM lab4.logger_lab4 log
+INFO: srTime ArrayList: 75229,000
+окт. 29, 2023 4:30:44 PM lab4.logger_lab4 log
+INFO: Start program
+окт. 29, 2023 4:30:44 PM lab4.logger_lab4 log
+INFO: ArrayList
+окт. 29, 2023 4:30:44 PM lab4.logger_lab4 log
+INFO: add, ind-1:  12917,000 HashMap
+окт. 29, 2023 4:30:44 PM lab4.logger_lab4 log
+INFO: add, ind-2:  8583,000 HashMap
+окт. 29, 2023 4:30:44 PM lab4.logger_lab4 log
+INFO: add, ind-3:  8000,000 HashMap
+окт. 29, 2023 4:30:44 PM lab4.logger_lab4 log
+INFO: add, ind-4:  8041,000 HashMap
+окт. 29, 2023 4:30:44 PM lab4.logger_lab4 log
+INFO: add, ind-5:  8041,000 HashMap
+окт. 29, 2023 4:30:44 PM lab4.logger_lab4 log
+INFO: add, ind-6:  8583,000 HashMap
+окт. 29, 2023 4:30:44 PM lab4.logger_lab4 log
+INFO: add, ind-7:  8375,000 HashMap
+окт. 29, 2023 4:30:44 PM lab4.logger_lab4 log
+INFO: add, ind-8:  8000,000 HashMap
+окт. 29, 2023 4:30:44 PM lab4.logger_lab4 log
+INFO: add, ind-9:  8083,000 HashMap
+окт. 29, 2023 4:30:44 PM lab4.logger_lab4 log
+INFO: add, ind-10:  8292,000 HashMap
+окт. 29, 2023 4:30:44 PM lab4.logger_lab4 log
+INFO: totalTime: 3012375,000 HashMap
+окт. 29, 2023 4:30:44 PM lab4.logger_lab4 log
+INFO: remove ArrayList: 250,000 HashMap
+окт. 29, 2023 4:30:44 PM lab4.logger_lab4 log
+INFO: srTime: 8691,000 HashMap
+окт. 29, 2023 4:33:28 PM lab4.logger_lab4 log
+INFO: Start program
+окт. 29, 2023 4:33:28 PM lab4.logger_lab4 log
+INFO: ArrayList
+окт. 29, 2023 4:33:28 PM lab4.logger_lab4 log
+INFO: add, ind-1:  496875,000 ArrayList
+окт. 29, 2023 4:33:28 PM lab4.logger_lab4 log
+INFO: add, ind-2:  9875,000 ArrayList
+окт. 29, 2023 4:33:28 PM lab4.logger_lab4 log
+INFO: add, ind-3:  9250,000 ArrayList
+окт. 29, 2023 4:33:28 PM lab4.logger_lab4 log
+INFO: add, ind-4:  10333,000 ArrayList
+окт. 29, 2023 4:33:28 PM lab4.logger_lab4 log
+INFO: add, ind-5:  9083,000 ArrayList
+окт. 29, 2023 4:33:28 PM lab4.logger_lab4 log
+INFO: add, ind-6:  9000,000 ArrayList
+окт. 29, 2023 4:33:28 PM lab4.logger_lab4 log
+INFO: add, ind-7:  10000,000 ArrayList
+окт. 29, 2023 4:33:28 PM lab4.logger_lab4 log
+INFO: add, ind-8:  9292,000 ArrayList
+окт. 29, 2023 4:33:28 PM lab4.logger_lab4 log
+INFO: add, ind-9:  10875,000 ArrayList
+окт. 29, 2023 4:33:28 PM lab4.logger_lab4 log
+INFO: add, ind-10:  9500,000 ArrayList
+окт. 29, 2023 4:33:28 PM lab4.logger_lab4 log
+INFO: totalTime: 5364625,000 ArrayList
+окт. 29, 2023 4:33:28 PM lab4.logger_lab4 log
+INFO: remove ArrayList: 334,000
+окт. 29, 2023 4:33:28 PM lab4.logger_lab4 log
+INFO: srTime ArrayList: 58408,000
+окт. 29, 2023 4:33:28 PM lab4.logger_lab4 log
+INFO: Start program
+окт. 29, 2023 4:33:28 PM lab4.logger_lab4 log
+INFO: ArrayList
+окт. 29, 2023 4:33:28 PM lab4.logger_lab4 log
+INFO: add, ind-1:  12208,000 HashMap
+окт. 29, 2023 4:33:28 PM lab4.logger_lab4 log
+INFO: add, ind-2:  8917,000 HashMap
+окт. 29, 2023 4:33:28 PM lab4.logger_lab4 log
+INFO: add, ind-3:  8333,000 HashMap
+окт. 29, 2023 4:33:28 PM lab4.logger_lab4 log
+INFO: add, ind-4:  8125,000 HashMap
+окт. 29, 2023 4:33:28 PM lab4.logger_lab4 log
+INFO: add, ind-5:  8208,000 HashMap
+окт. 29, 2023 4:33:28 PM lab4.logger_lab4 log
+INFO: add, ind-6:  8125,000 HashMap
+окт. 29, 2023 4:33:28 PM lab4.logger_lab4 log
+INFO: add, ind-7:  8375,000 HashMap
+окт. 29, 2023 4:33:28 PM lab4.logger_lab4 log
+INFO: add, ind-8:  8042,000 HashMap
+окт. 29, 2023 4:33:28 PM lab4.logger_lab4 log
+INFO: add, ind-9:  9000,000 HashMap
+окт. 29, 2023 4:33:28 PM lab4.logger_lab4 log
+INFO: add, ind-10:  8667,000 HashMap
+окт. 29, 2023 4:33:28 PM lab4.logger_lab4 log
+INFO: totalTime: 3146208,000 HashMap
+окт. 29, 2023 4:33:28 PM lab4.logger_lab4 log
+INFO: remove ArrayList: 333,000 HashMap
+окт. 29, 2023 4:33:28 PM lab4.logger_lab4 log
+INFO: srTime: 8800,000 HashMap
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: Start program
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: ArrayList
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-1:  505833,000 ArrayList
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-2:  11250,000 ArrayList
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-3:  9292,000 ArrayList
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-4:  9000,000 ArrayList
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-5:  8916,000 ArrayList
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-6:  9000,000 ArrayList
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-7:  8791,000 ArrayList
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-8:  8959,000 ArrayList
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-9:  9917,000 ArrayList
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-10:  9583,000 ArrayList
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-11:  9250,000 ArrayList
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-12:  9208,000 ArrayList
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-13:  8792,000 ArrayList
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-14:  8625,000 ArrayList
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-15:  8708,000 ArrayList
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-16:  9291,000 ArrayList
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-17:  9083,000 ArrayList
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-18:  8834,000 ArrayList
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-19:  8750,000 ArrayList
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-20:  8709,000 ArrayList
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-21:  8042,000 ArrayList
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-22:  7958,000 ArrayList
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-23:  8292,000 ArrayList
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-24:  10125,000 ArrayList
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-25:  8417,000 ArrayList
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-26:  9333,000 ArrayList
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-27:  31042,000 ArrayList
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-28:  8667,000 ArrayList
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-29:  7667,000 ArrayList
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-30:  7166,000 ArrayList
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-31:  6209,000 ArrayList
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-32:  6333,000 ArrayList
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-33:  6209,000 ArrayList
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-34:  6708,000 ArrayList
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-35:  6583,000 ArrayList
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-36:  6417,000 ArrayList
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-37:  6417,000 ArrayList
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-38:  8083,000 ArrayList
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-39:  5417,000 ArrayList
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-40:  5334,000 ArrayList
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-41:  5292,000 ArrayList
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-42:  5333,000 ArrayList
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-43:  5292,000 ArrayList
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-44:  5208,000 ArrayList
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-45:  5291,000 ArrayList
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-46:  5459,000 ArrayList
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-47:  9583,000 ArrayList
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-48:  5416,000 ArrayList
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-49:  4916,000 ArrayList
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-50:  5167,000 ArrayList
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-51:  4875,000 ArrayList
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-52:  4875,000 ArrayList
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-53:  4792,000 ArrayList
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-54:  4916,000 ArrayList
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-55:  4958,000 ArrayList
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-56:  4875,000 ArrayList
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-57:  5583,000 ArrayList
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-58:  4875,000 ArrayList
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-59:  6958,000 ArrayList
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-60:  4917,000 ArrayList
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-61:  5167,000 ArrayList
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-62:  5667,000 ArrayList
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-63:  5583,000 ArrayList
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-64:  6084,000 ArrayList
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-65:  4958,000 ArrayList
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-66:  4958,000 ArrayList
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-67:  6792,000 ArrayList
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-68:  4084,000 ArrayList
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-69:  4000,000 ArrayList
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-70:  3750,000 ArrayList
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-71:  3917,000 ArrayList
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-72:  3833,000 ArrayList
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-73:  3709,000 ArrayList
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-74:  3958,000 ArrayList
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-75:  3916,000 ArrayList
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-76:  3917,000 ArrayList
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-77:  3834,000 ArrayList
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-78:  3709,000 ArrayList
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-79:  3875,000 ArrayList
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-80:  3708,000 ArrayList
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-81:  3792,000 ArrayList
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-82:  3833,000 ArrayList
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-83:  4833,000 ArrayList
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-84:  3292,000 ArrayList
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-85:  3834,000 ArrayList
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-86:  3875,000 ArrayList
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-87:  3875,000 ArrayList
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-88:  4750,000 ArrayList
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-89:  3667,000 ArrayList
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-90:  3459,000 ArrayList
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-91:  4000,000 ArrayList
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-92:  3917,000 ArrayList
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-93:  13792,000 ArrayList
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-94:  4000,000 ArrayList
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-95:  3625,000 ArrayList
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-96:  3375,000 ArrayList
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-97:  5375,000 ArrayList
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-98:  4000,000 ArrayList
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-99:  3833,000 ArrayList
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-100:  4042,000 ArrayList
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: totalTime: 27071542,000 ArrayList
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: remove ArrayList: 12500,000
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: srTime ArrayList: 11373,000
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: Start program
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: ArrayList
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-1:  11667,000 HashMap
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-2:  3666,000 HashMap
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-3:  3750,000 HashMap
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-4:  3167,000 HashMap
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-5:  4667,000 HashMap
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-6:  3542,000 HashMap
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-7:  3750,000 HashMap
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-8:  3333,000 HashMap
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-9:  3667,000 HashMap
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: add, ind-10:  3417,000 HashMap
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: totalTime: 1415500,000 HashMap
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: remove ArrayList: 208,000 HashMap
+окт. 29, 2023 4:34:33 PM lab4.logger_lab4 log
+INFO: srTime: 4462,000 HashMap
+окт. 29, 2023 4:41:14 PM lab4.logger_lab4 log
+INFO: Start program
+окт. 29, 2023 4:41:14 PM lab4.logger_lab4 log
+INFO: ArrayList
+окт. 29, 2023 4:41:14 PM lab4.logger_lab4 log
+INFO: add, ind-1:  370125,000 ArrayList
+окт. 29, 2023 4:41:14 PM lab4.logger_lab4 log
+INFO: add, ind-2:  11583,000 ArrayList
+окт. 29, 2023 4:41:14 PM lab4.logger_lab4 log
+INFO: add, ind-3:  13167,000 ArrayList
+окт. 29, 2023 4:41:14 PM lab4.logger_lab4 log
+INFO: add, ind-4:  10709,000 ArrayList
+окт. 29, 2023 4:41:14 PM lab4.logger_lab4 log
+INFO: add, ind-5:  10000,000 ArrayList
+окт. 29, 2023 4:41:14 PM lab4.logger_lab4 log
+INFO: add, ind-6:  10250,000 ArrayList
+окт. 29, 2023 4:41:14 PM lab4.logger_lab4 log
+INFO: add, ind-7:  10125,000 ArrayList
+окт. 29, 2023 4:41:14 PM lab4.logger_lab4 log
+INFO: add, ind-8:  10250,000 ArrayList
+окт. 29, 2023 4:41:14 PM lab4.logger_lab4 log
+INFO: add, ind-9:  10000,000 ArrayList
+окт. 29, 2023 4:41:14 PM lab4.logger_lab4 log
+INFO: add, ind-10:  9375,000 ArrayList
+окт. 29, 2023 4:41:14 PM lab4.logger_lab4 log
+INFO: totalTime: 5745625,000 ArrayList
+окт. 29, 2023 4:41:14 PM lab4.logger_lab4 log
+INFO: remove ArrayList: 291,000
+окт. 29, 2023 4:41:14 PM lab4.logger_lab4 log
+INFO: srTime ArrayList: 46558,000
+окт. 29, 2023 4:41:14 PM lab4.logger_lab4 log
+INFO: Start program
+окт. 29, 2023 4:41:14 PM lab4.logger_lab4 log
+INFO: ArrayList
+окт. 29, 2023 4:41:14 PM lab4.logger_lab4 log
+INFO: add, ind-1:  11542,000 HashMap
+окт. 29, 2023 4:41:14 PM lab4.logger_lab4 log
+INFO: add, ind-2:  9625,000 HashMap
+окт. 29, 2023 4:41:14 PM lab4.logger_lab4 log
+INFO: add, ind-3:  9041,000 HashMap
+окт. 29, 2023 4:41:14 PM lab4.logger_lab4 log
+INFO: add, ind-4:  9083,000 HashMap
+окт. 29, 2023 4:41:14 PM lab4.logger_lab4 log
+INFO: add, ind-5:  9000,000 HashMap
+окт. 29, 2023 4:41:14 PM lab4.logger_lab4 log
+INFO: add, ind-6:  8958,000 HashMap
+окт. 29, 2023 4:41:14 PM lab4.logger_lab4 log
+INFO: add, ind-7:  9334,000 HashMap
+окт. 29, 2023 4:41:14 PM lab4.logger_lab4 log
+INFO: add, ind-8:  9292,000 HashMap
+окт. 29, 2023 4:41:14 PM lab4.logger_lab4 log
+INFO: add, ind-9:  9042,000 HashMap
+окт. 29, 2023 4:41:14 PM lab4.logger_lab4 log
+INFO: add, ind-10:  9500,000 HashMap
+окт. 29, 2023 4:41:14 PM lab4.logger_lab4 log
+INFO: totalTime: 3104917,000 HashMap
+окт. 29, 2023 4:41:14 PM lab4.logger_lab4 log
+INFO: remove ArrayList: 250,000 HashMap
+окт. 29, 2023 4:41:14 PM lab4.logger_lab4 log
+INFO: srTime: 9441,000 HashMap
+окт. 29, 2023 4:41:44 PM lab4.logger_lab4 log
+INFO: Start program
+окт. 29, 2023 4:41:44 PM lab4.logger_lab4 log
+INFO: ArrayList
+окт. 29, 2023 4:41:44 PM lab4.logger_lab4 log
+INFO: add, ind-1:  532250,000 ArrayList
+окт. 29, 2023 4:41:44 PM lab4.logger_lab4 log
+INFO: add, ind-2:  10916,000 ArrayList
+окт. 29, 2023 4:41:44 PM lab4.logger_lab4 log
+INFO: add, ind-3:  9291,000 ArrayList
+окт. 29, 2023 4:41:44 PM lab4.logger_lab4 log
+INFO: add, ind-4:  9250,000 ArrayList
+окт. 29, 2023 4:41:44 PM lab4.logger_lab4 log
+INFO: add, ind-5:  8958,000 ArrayList
+окт. 29, 2023 4:41:44 PM lab4.logger_lab4 log
+INFO: add, ind-6:  10292,000 ArrayList
+окт. 29, 2023 4:41:44 PM lab4.logger_lab4 log
+INFO: add, ind-7:  9167,000 ArrayList
+окт. 29, 2023 4:41:44 PM lab4.logger_lab4 log
+INFO: add, ind-8:  9000,000 ArrayList
+окт. 29, 2023 4:41:44 PM lab4.logger_lab4 log
+INFO: add, ind-9:  11541,000 ArrayList
+окт. 29, 2023 4:41:44 PM lab4.logger_lab4 log
+INFO: add, ind-10:  9375,000 ArrayList
+окт. 29, 2023 4:41:44 PM lab4.logger_lab4 log
+INFO: totalTime: 5533291,000 ArrayList
+окт. 29, 2023 4:41:44 PM lab4.logger_lab4 log
+INFO: remove ArrayList: 292,000
+окт. 29, 2023 4:41:44 PM lab4.logger_lab4 log
+INFO: srTime ArrayList: 62004,000
+окт. 29, 2023 4:41:44 PM lab4.logger_lab4 log
+INFO: Start program
+окт. 29, 2023 4:41:44 PM lab4.logger_lab4 log
+INFO: ArrayList
+окт. 29, 2023 4:41:44 PM lab4.logger_lab4 log
+INFO: add, ind-1:  10708,000 HashMap
+окт. 29, 2023 4:41:44 PM lab4.logger_lab4 log
+INFO: add, ind-2:  9042,000 HashMap
+окт. 29, 2023 4:41:44 PM lab4.logger_lab4 log
+INFO: add, ind-3:  8292,000 HashMap
+окт. 29, 2023 4:41:44 PM lab4.logger_lab4 log
+INFO: add, ind-4:  9167,000 HashMap
+окт. 29, 2023 4:41:44 PM lab4.logger_lab4 log
+INFO: add, ind-5:  8542,000 HashMap
+окт. 29, 2023 4:41:44 PM lab4.logger_lab4 log
+INFO: add, ind-6:  8542,000 HashMap
+окт. 29, 2023 4:41:44 PM lab4.logger_lab4 log
+INFO: add, ind-7:  10584,000 HashMap
+окт. 29, 2023 4:41:44 PM lab4.logger_lab4 log
+INFO: add, ind-8:  7125,000 HashMap
+окт. 29, 2023 4:41:44 PM lab4.logger_lab4 log
+INFO: add, ind-9:  6625,000 HashMap
+окт. 29, 2023 4:41:44 PM lab4.logger_lab4 log
+INFO: add, ind-10:  6959,000 HashMap
+окт. 29, 2023 4:41:44 PM lab4.logger_lab4 log
+INFO: totalTime: 3463834,000 HashMap
+окт. 29, 2023 4:41:44 PM lab4.logger_lab4 log
+INFO: remove ArrayList: 292,000 HashMap
+окт. 29, 2023 4:41:44 PM lab4.logger_lab4 log
+INFO: srTime: 8558,000 HashMap
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: Start program
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: ArrayList
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-1:  45542,000 ArrayList
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-2:  23083,000 ArrayList
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-3:  20417,000 ArrayList
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-4:  14125,000 ArrayList
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-5:  13042,000 ArrayList
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-6:  24417,000 ArrayList
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-7:  21667,000 ArrayList
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-8:  9959,000 ArrayList
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-9:  7666,000 ArrayList
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-10:  11916,000 ArrayList
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-11:  11750,000 ArrayList
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-12:  11375,000 ArrayList
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-13:  11000,000 ArrayList
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-14:  11417,000 ArrayList
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-15:  11833,000 ArrayList
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-16:  11541,000 ArrayList
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-17:  11167,000 ArrayList
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-18:  11000,000 ArrayList
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-19:  10959,000 ArrayList
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-20:  10916,000 ArrayList
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-21:  9208,000 ArrayList
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-22:  9083,000 ArrayList
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-23:  9208,000 ArrayList
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-24:  10417,000 ArrayList
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-25:  10792,000 ArrayList
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-26:  8875,000 ArrayList
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-27:  6916,000 ArrayList
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-28:  7875,000 ArrayList
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-29:  10375,000 ArrayList
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-30:  7666,000 ArrayList
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-31:  7000,000 ArrayList
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-32:  7667,000 ArrayList
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-33:  9917,000 ArrayList
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-34:  7667,000 ArrayList
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-35:  11833,000 ArrayList
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-36:  12792,000 ArrayList
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-37:  5792,000 ArrayList
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-38:  5417,000 ArrayList
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-39:  5833,000 ArrayList
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-40:  110042,000 ArrayList
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-41:  5667,000 ArrayList
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-42:  5250,000 ArrayList
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-43:  7042,000 ArrayList
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-44:  7417,000 ArrayList
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-45:  8250,000 ArrayList
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-46:  9292,000 ArrayList
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-47:  5375,000 ArrayList
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-48:  6000,000 ArrayList
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-49:  5292,000 ArrayList
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-50:  7583,000 ArrayList
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-51:  5667,000 ArrayList
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-52:  6416,000 ArrayList
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-53:  5958,000 ArrayList
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-54:  5166,000 ArrayList
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-55:  5500,000 ArrayList
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-56:  5000,000 ArrayList
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-57:  5833,000 ArrayList
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-58:  5333,000 ArrayList
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-59:  5292,000 ArrayList
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-60:  5125,000 ArrayList
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-61:  5958,000 ArrayList
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-62:  5125,000 ArrayList
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-63:  4958,000 ArrayList
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-64:  4917,000 ArrayList
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-65:  5084,000 ArrayList
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-66:  6500,000 ArrayList
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-67:  4250,000 ArrayList
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-68:  4250,000 ArrayList
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-69:  4125,000 ArrayList
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-70:  4708,000 ArrayList
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-71:  20791,000 ArrayList
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-72:  5208,000 ArrayList
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-73:  4542,000 ArrayList
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-74:  5125,000 ArrayList
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-75:  4542,000 ArrayList
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-76:  5000,000 ArrayList
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-77:  4292,000 ArrayList
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-78:  5125,000 ArrayList
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-79:  4375,000 ArrayList
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-80:  4792,000 ArrayList
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-81:  4583,000 ArrayList
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-82:  4375,000 ArrayList
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-83:  5625,000 ArrayList
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-84:  4958,000 ArrayList
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-85:  4334,000 ArrayList
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-86:  4458,000 ArrayList
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-87:  4292,000 ArrayList
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-88:  4375,000 ArrayList
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-89:  4958,000 ArrayList
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-90:  4292,000 ArrayList
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-91:  4291,000 ArrayList
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-92:  4209,000 ArrayList
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-93:  10000,000 ArrayList
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-94:  4625,000 ArrayList
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-95:  6416,000 ArrayList
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-96:  4833,000 ArrayList
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-97:  4709,000 ArrayList
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-98:  9084,000 ArrayList
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-99:  5250,000 ArrayList
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-100:  4250,000 ArrayList
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: totalTime: 27253875,000 ArrayList
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: remove ArrayList: 17709,000
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: srTime ArrayList: 9192,000
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: Start program
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: ArrayList
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-1:  7167,000 HashMap
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-2:  7667,000 HashMap
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-3:  9000,000 HashMap
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-4:  13791,000 HashMap
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-5:  8875,000 HashMap
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-6:  4375,000 HashMap
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-7:  4334,000 HashMap
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-8:  6375,000 HashMap
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-9:  4083,000 HashMap
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: add, ind-10:  3917,000 HashMap
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: totalTime: 1190542,000 HashMap
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: remove ArrayList: 291,000 HashMap
+окт. 29, 2023 4:41:57 PM lab4.logger_lab4 log
+INFO: srTime: 6958,000 HashMap
+окт. 29, 2023 4:44:30 PM lab4.logger_lab4 log
+INFO: Start program
+окт. 29, 2023 4:44:30 PM lab4.logger_lab4 log
+INFO: ArrayList
+окт. 29, 2023 4:44:30 PM lab4.logger_lab4 log
+INFO: add, ind-1:  592625,000 ArrayList
+окт. 29, 2023 4:44:30 PM lab4.logger_lab4 log
+INFO: add, ind-2:  9667,000 ArrayList
+окт. 29, 2023 4:44:30 PM lab4.logger_lab4 log
+INFO: add, ind-3:  9875,000 ArrayList
+окт. 29, 2023 4:44:30 PM lab4.logger_lab4 log
+INFO: add, ind-4:  9083,000 ArrayList
+окт. 29, 2023 4:44:30 PM lab4.logger_lab4 log
+INFO: add, ind-5:  9917,000 ArrayList
+окт. 29, 2023 4:44:30 PM lab4.logger_lab4 log
+INFO: add, ind-6:  9041,000 ArrayList
+окт. 29, 2023 4:44:30 PM lab4.logger_lab4 log
+INFO: add, ind-7:  9084,000 ArrayList
+окт. 29, 2023 4:44:30 PM lab4.logger_lab4 log
+INFO: add, ind-8:  9833,000 ArrayList
+окт. 29, 2023 4:44:30 PM lab4.logger_lab4 log
+INFO: add, ind-9:  13333,000 ArrayList
+окт. 29, 2023 4:44:30 PM lab4.logger_lab4 log
+INFO: add, ind-10:  9542,000 ArrayList
+окт. 29, 2023 4:44:30 PM lab4.logger_lab4 log
+INFO: totalTime: 5788166,000 ArrayList
+окт. 29, 2023 4:44:30 PM lab4.logger_lab4 log
+INFO: remove ArrayList: 292,000
+окт. 29, 2023 4:44:30 PM lab4.logger_lab4 log
+INFO: srTime ArrayList: 68200,000
+окт. 29, 2023 4:44:30 PM lab4.logger_lab4 log
+INFO: Start program
+окт. 29, 2023 4:44:30 PM lab4.logger_lab4 log
+INFO: ArrayList
+окт. 29, 2023 4:44:30 PM lab4.logger_lab4 log
+INFO: add, ind-1:  12375,000 HashMap
+окт. 29, 2023 4:44:30 PM lab4.logger_lab4 log
+INFO: add, ind-2:  8959,000 HashMap
+окт. 29, 2023 4:44:30 PM lab4.logger_lab4 log
+INFO: add, ind-3:  8292,000 HashMap
+окт. 29, 2023 4:44:30 PM lab4.logger_lab4 log
+INFO: add, ind-4:  8375,000 HashMap
+окт. 29, 2023 4:44:30 PM lab4.logger_lab4 log
+INFO: add, ind-5:  8083,000 HashMap
+окт. 29, 2023 4:44:30 PM lab4.logger_lab4 log
+INFO: add, ind-6:  8208,000 HashMap
+окт. 29, 2023 4:44:30 PM lab4.logger_lab4 log
+INFO: add, ind-7:  8541,000 HashMap
+окт. 29, 2023 4:44:30 PM lab4.logger_lab4 log
+INFO: add, ind-8:  8250,000 HashMap
+окт. 29, 2023 4:44:30 PM lab4.logger_lab4 log
+INFO: add, ind-9:  9666,000 HashMap
+окт. 29, 2023 4:44:30 PM lab4.logger_lab4 log
+INFO: add, ind-10:  8667,000 HashMap
+окт. 29, 2023 4:44:30 PM lab4.logger_lab4 log
+INFO: totalTime: 3195417,000 HashMap
+окт. 29, 2023 4:44:30 PM lab4.logger_lab4 log
+INFO: remove ArrayList: 291,000 HashMap
+окт. 29, 2023 4:44:30 PM lab4.logger_lab4 log
+INFO: srTime: 8941,000 HashMap
+окт. 29, 2023 4:44:41 PM lab4.logger_lab4 log
+INFO: Start program
+окт. 29, 2023 4:44:41 PM lab4.logger_lab4 log
+INFO: ArrayList
+окт. 29, 2023 4:44:41 PM lab4.logger_lab4 log
+INFO: add, ind-1:  28750,000 ArrayList
+окт. 29, 2023 4:44:41 PM lab4.logger_lab4 log
+INFO: add, ind-2:  14458,000 ArrayList
+окт. 29, 2023 4:44:41 PM lab4.logger_lab4 log
+INFO: add, ind-3:  12500,000 ArrayList
+окт. 29, 2023 4:44:41 PM lab4.logger_lab4 log
+INFO: add, ind-4:  23958,000 ArrayList
+окт. 29, 2023 4:44:41 PM lab4.logger_lab4 log
+INFO: add, ind-5:  21209,000 ArrayList
+окт. 29, 2023 4:44:41 PM lab4.logger_lab4 log
+INFO: add, ind-6:  15083,000 ArrayList
+окт. 29, 2023 4:44:41 PM lab4.logger_lab4 log
+INFO: add, ind-7:  18458,000 ArrayList
+окт. 29, 2023 4:44:41 PM lab4.logger_lab4 log
+INFO: add, ind-8:  20000,000 ArrayList
+окт. 29, 2023 4:44:41 PM lab4.logger_lab4 log
+INFO: add, ind-9:  17084,000 ArrayList
+окт. 29, 2023 4:44:41 PM lab4.logger_lab4 log
+INFO: add, ind-10:  17708,000 ArrayList
+окт. 29, 2023 4:44:41 PM lab4.logger_lab4 log
+INFO: add, ind-11:  20333,000 ArrayList
+окт. 29, 2023 4:44:41 PM lab4.logger_lab4 log
+INFO: add, ind-12:  16083,000 ArrayList
+окт. 29, 2023 4:44:41 PM lab4.logger_lab4 log
+INFO: add, ind-13:  15875,000 ArrayList
+окт. 29, 2023 4:44:41 PM lab4.logger_lab4 log
+INFO: add, ind-14:  21667,000 ArrayList
+окт. 29, 2023 4:44:41 PM lab4.logger_lab4 log
+INFO: add, ind-15:  17541,000 ArrayList
+окт. 29, 2023 4:44:41 PM lab4.logger_lab4 log
+INFO: add, ind-16:  16750,000 ArrayList
+окт. 29, 2023 4:44:41 PM lab4.logger_lab4 log
+INFO: add, ind-17:  11459,000 ArrayList
+окт. 29, 2023 4:44:41 PM lab4.logger_lab4 log
+INFO: add, ind-18:  11208,000 ArrayList
+окт. 29, 2023 4:44:41 PM lab4.logger_lab4 log
+INFO: add, ind-19:  15375,000 ArrayList
+окт. 29, 2023 4:44:41 PM lab4.logger_lab4 log
+INFO: add, ind-20:  17959,000 ArrayList
+окт. 29, 2023 4:44:41 PM lab4.logger_lab4 log
+INFO: add, ind-21:  12958,000 ArrayList
+окт. 29, 2023 4:44:41 PM lab4.logger_lab4 log
+INFO: add, ind-22:  13000,000 ArrayList
+окт. 29, 2023 4:44:41 PM lab4.logger_lab4 log
+INFO: add, ind-23:  13875,000 ArrayList
+окт. 29, 2023 4:44:41 PM lab4.logger_lab4 log
+INFO: add, ind-24:  12917,000 ArrayList
+окт. 29, 2023 4:44:41 PM lab4.logger_lab4 log
+INFO: add, ind-25:  14167,000 ArrayList
+окт. 29, 2023 4:44:41 PM lab4.logger_lab4 log
+INFO: add, ind-26:  13208,000 ArrayList
+окт. 29, 2023 4:44:41 PM lab4.logger_lab4 log
+INFO: add, ind-27:  20500,000 ArrayList
+окт. 29, 2023 4:44:41 PM lab4.logger_lab4 log
+INFO: add, ind-28:  11167,000 ArrayList
+окт. 29, 2023 4:44:41 PM lab4.logger_lab4 log
+INFO: add, ind-29:  11167,000 ArrayList
+окт. 29, 2023 4:44:41 PM lab4.logger_lab4 log
+INFO: add, ind-30:  12291,000 ArrayList
+окт. 29, 2023 4:44:41 PM lab4.logger_lab4 log
+INFO: add, ind-31:  12416,000 ArrayList
+окт. 29, 2023 4:44:41 PM lab4.logger_lab4 log
+INFO: add, ind-32:  11792,000 ArrayList
+окт. 29, 2023 4:44:41 PM lab4.logger_lab4 log
+INFO: add, ind-33:  7500,000 ArrayList
+окт. 29, 2023 4:44:41 PM lab4.logger_lab4 log
+INFO: add, ind-34:  7792,000 ArrayList
+окт. 29, 2023 4:44:41 PM lab4.logger_lab4 log
+INFO: add, ind-35:  7417,000 ArrayList
+окт. 29, 2023 4:44:41 PM lab4.logger_lab4 log
+INFO: add, ind-36:  7459,000 ArrayList
+окт. 29, 2023 4:44:41 PM lab4.logger_lab4 log
+INFO: add, ind-37:  7458,000 ArrayList
+окт. 29, 2023 4:44:41 PM lab4.logger_lab4 log
+INFO: add, ind-38:  6916,000 ArrayList
+окт. 29, 2023 4:44:41 PM lab4.logger_lab4 log
+INFO: add, ind-39:  8458,000 ArrayList
+окт. 29, 2023 4:44:41 PM lab4.logger_lab4 log
+INFO: add, ind-40:  6791,000 ArrayList
+окт. 29, 2023 4:44:41 PM lab4.logger_lab4 log
+INFO: add, ind-41:  12833,000 ArrayList
+окт. 29, 2023 4:44:41 PM lab4.logger_lab4 log
+INFO: add, ind-42:  5792,000 ArrayList
+окт. 29, 2023 4:44:41 PM lab4.logger_lab4 log
+INFO: add, ind-43:  7042,000 ArrayList
+окт. 29, 2023 4:44:41 PM lab4.logger_lab4 log
+INFO: add, ind-44:  7875,000 ArrayList
+окт. 29, 2023 4:44:41 PM lab4.logger_lab4 log
+INFO: add, ind-45:  6167,000 ArrayList
+окт. 29, 2023 4:44:41 PM lab4.logger_lab4 log
+INFO: add, ind-46:  5750,000 ArrayList
+окт. 29, 2023 4:44:41 PM lab4.logger_lab4 log
+INFO: add, ind-47:  5750,000 ArrayList
+окт. 29, 2023 4:44:41 PM lab4.logger_lab4 log
+INFO: add, ind-48:  5250,000 ArrayList
+окт. 29, 2023 4:44:41 PM lab4.logger_lab4 log
+INFO: add, ind-49:  6084,000 ArrayList
+окт. 29, 2023 4:44:41 PM lab4.logger_lab4 log
+INFO: add, ind-50:  6417,000 ArrayList
+окт. 29, 2023 4:44:41 PM lab4.logger_lab4 log
+INFO: add, ind-51:  6167,000 ArrayList
+окт. 29, 2023 4:44:41 PM lab4.logger_lab4 log
+INFO: add, ind-52:  6042,000 ArrayList
+окт. 29, 2023 4:44:41 PM lab4.logger_lab4 log
+INFO: add, ind-53:  5708,000 ArrayList
+окт. 29, 2023 4:44:41 PM lab4.logger_lab4 log
+INFO: add, ind-54:  5333,000 ArrayList
+окт. 29, 2023 4:44:41 PM lab4.logger_lab4 log
+INFO: add, ind-55:  5375,000 ArrayList
+окт. 29, 2023 4:44:41 PM lab4.logger_lab4 log
+INFO: add, ind-56:  5167,000 ArrayList
+окт. 29, 2023 4:44:41 PM lab4.logger_lab4 log
+INFO: add, ind-57:  5833,000 ArrayList
+окт. 29, 2023 4:44:41 PM lab4.logger_lab4 log
+INFO: add, ind-58:  6042,000 ArrayList
+окт. 29, 2023 4:44:41 PM lab4.logger_lab4 log
+INFO: add, ind-59:  6625,000 ArrayList
+окт. 29, 2023 4:44:41 PM lab4.logger_lab4 log
+INFO: add, ind-60:  4625,000 ArrayList
+окт. 29, 2023 4:44:41 PM lab4.logger_lab4 log
+INFO: add, ind-61:  5166,000 ArrayList
+окт. 29, 2023 4:44:41 PM lab4.logger_lab4 log
+INFO: add, ind-62:  4708,000 ArrayList
+окт. 29, 2023 4:44:41 PM lab4.logger_lab4 log
+INFO: add, ind-63:  4500,000 ArrayList
+окт. 29, 2023 4:44:41 PM lab4.logger_lab4 log
+INFO: add, ind-64:  4458,000 ArrayList
+окт. 29, 2023 4:44:41 PM lab4.logger_lab4 log
+INFO: add, ind-65:  5292,000 ArrayList
+окт. 29, 2023 4:44:41 PM lab4.logger_lab4 log
+INFO: add, ind-66:  4709,000 ArrayList
+окт. 29, 2023 4:44:41 PM lab4.logger_lab4 log
+INFO: add, ind-67:  5083,000 ArrayList
+окт. 29, 2023 4:44:41 PM lab4.logger_lab4 log
+INFO: add, ind-68:  4917,000 ArrayList
+окт. 29, 2023 4:44:41 PM lab4.logger_lab4 log
+INFO: add, ind-69:  4917,000 ArrayList
+окт. 29, 2023 4:44:41 PM lab4.logger_lab4 log
+INFO: add, ind-70:  4500,000 ArrayList
+окт. 29, 2023 4:44:41 PM lab4.logger_lab4 log
+INFO: add, ind-71:  23750,000 ArrayList
+окт. 29, 2023 4:44:41 PM lab4.logger_lab4 log
+INFO: add, ind-72:  7542,000 ArrayList
+окт. 29, 2023 4:44:41 PM lab4.logger_lab4 log
+INFO: add, ind-73:  5333,000 ArrayList
+окт. 29, 2023 4:44:41 PM lab4.logger_lab4 log
+INFO: add, ind-74:  5041,000 ArrayList
+окт. 29, 2023 4:44:41 PM lab4.logger_lab4 log
+INFO: add, ind-75:  6750,000 ArrayList
+окт. 29, 2023 4:44:41 PM lab4.logger_lab4 log
+INFO: add, ind-76:  5041,000 ArrayList
+окт. 29, 2023 4:44:41 PM lab4.logger_lab4 log
+INFO: add, ind-77:  5416,000 ArrayList
+окт. 29, 2023 4:44:41 PM lab4.logger_lab4 log
+INFO: add, ind-78:  4834,000 ArrayList
+окт. 29, 2023 4:44:41 PM lab4.logger_lab4 log
+INFO: add, ind-79:  5375,000 ArrayList
+окт. 29, 2023 4:44:41 PM lab4.logger_lab4 log
+INFO: add, ind-80:  4750,000 ArrayList
+окт. 29, 2023 4:44:41 PM lab4.logger_lab4 log
+INFO: add, ind-81:  5291,000 ArrayList
+окт. 29, 2023 4:44:41 PM lab4.logger_lab4 log
+INFO: add, ind-82:  4750,000 ArrayList
+окт. 29, 2023 4:44:41 PM lab4.logger_lab4 log
+INFO: add, ind-83:  9750,000 ArrayList
+окт. 29, 2023 4:44:41 PM lab4.logger_lab4 log
+INFO: add, ind-84:  4666,000 ArrayList
+окт. 29, 2023 4:44:41 PM lab4.logger_lab4 log
+INFO: add, ind-85:  4958,000 ArrayList
+окт. 29, 2023 4:44:41 PM lab4.logger_lab4 log
+INFO: add, ind-86:  5250,000 ArrayList
+окт. 29, 2023 4:44:41 PM lab4.logger_lab4 log
+INFO: add, ind-87:  13208,000 ArrayList
+окт. 29, 2023 4:44:41 PM lab4.logger_lab4 log
+INFO: add, ind-88:  5250,000 ArrayList
+окт. 29, 2023 4:44:41 PM lab4.logger_lab4 log
+INFO: add, ind-89:  4750,000 ArrayList
+окт. 29, 2023 4:44:41 PM lab4.logger_lab4 log
+INFO: add, ind-90:  5125,000 ArrayList
+окт. 29, 2023 4:44:41 PM lab4.logger_lab4 log
+INFO: add, ind-91:  4583,000 ArrayList
+окт. 29, 2023 4:44:41 PM lab4.logger_lab4 log
+INFO: add, ind-92:  4459,000 ArrayList
+окт. 29, 2023 4:44:41 PM lab4.logger_lab4 log
+INFO: add, ind-93:  5458,000 ArrayList
+окт. 29, 2023 4:44:41 PM lab4.logger_lab4 log
+INFO: add, ind-94:  4500,000 ArrayList
+окт. 29, 2023 4:44:41 PM lab4.logger_lab4 log
+INFO: add, ind-95:  5250,000 ArrayList
+окт. 29, 2023 4:44:41 PM lab4.logger_lab4 log
+INFO: add, ind-96:  4625,000 ArrayList
+окт. 29, 2023 4:44:41 PM lab4.logger_lab4 log
+INFO: add, ind-97:  6334,000 ArrayList
+окт. 29, 2023 4:44:41 PM lab4.logger_lab4 log
+INFO: add, ind-98:  5084,000 ArrayList
+окт. 29, 2023 4:44:41 PM lab4.logger_lab4 log
+INFO: add, ind-99:  5208,000 ArrayList
+окт. 29, 2023 4:44:41 PM lab4.logger_lab4 log
+INFO: add, ind-100:  11042,000 ArrayList
+окт. 29, 2023 4:44:41 PM lab4.logger_lab4 log
+INFO: totalTime: 30906667,000 ArrayList
+окт. 29, 2023 4:47:16 PM lab4.logger_lab4 log
+INFO: Start program
+окт. 29, 2023 4:47:16 PM lab4.logger_lab4 log
+INFO: ArrayList
+окт. 29, 2023 4:47:16 PM lab4.logger_lab4 log
+INFO: add, ind-1:  595541,000 ArrayList
+окт. 29, 2023 4:47:16 PM lab4.logger_lab4 log
+INFO: add, ind-2:  10833,000 ArrayList
+окт. 29, 2023 4:47:16 PM lab4.logger_lab4 log
+INFO: add, ind-3:  11042,000 ArrayList
+окт. 29, 2023 4:47:16 PM lab4.logger_lab4 log
+INFO: add, ind-4:  10208,000 ArrayList
+окт. 29, 2023 4:47:16 PM lab4.logger_lab4 log
+INFO: add, ind-5:  8875,000 ArrayList
+окт. 29, 2023 4:47:16 PM lab4.logger_lab4 log
+INFO: add, ind-6:  9042,000 ArrayList
+окт. 29, 2023 4:47:16 PM lab4.logger_lab4 log
+INFO: add, ind-7:  10209,000 ArrayList
+окт. 29, 2023 4:47:16 PM lab4.logger_lab4 log
+INFO: add, ind-8:  9416,000 ArrayList
+окт. 29, 2023 4:47:16 PM lab4.logger_lab4 log
+INFO: add, ind-9:  13292,000 ArrayList
+окт. 29, 2023 4:47:16 PM lab4.logger_lab4 log
+INFO: add, ind-10:  9459,000 ArrayList
+окт. 29, 2023 4:47:16 PM lab4.logger_lab4 log
+INFO: totalTime: 5702542,000 ArrayList
+окт. 29, 2023 4:47:16 PM lab4.logger_lab4 log
+INFO: remove ArrayList: 291,000
+окт. 29, 2023 4:47:16 PM lab4.logger_lab4 log
+INFO: srTime ArrayList: 68791,000
+окт. 29, 2023 4:47:16 PM lab4.logger_lab4 log
+INFO: Start program
+окт. 29, 2023 4:47:16 PM lab4.logger_lab4 log
+INFO: ArrayList
+окт. 29, 2023 4:47:16 PM lab4.logger_lab4 log
+INFO: add, ind-1:  11500,000 HashMap
+окт. 29, 2023 4:47:16 PM lab4.logger_lab4 log
+INFO: add, ind-2:  9667,000 HashMap
+окт. 29, 2023 4:47:16 PM lab4.logger_lab4 log
+INFO: add, ind-3:  11208,000 HashMap
+окт. 29, 2023 4:47:16 PM lab4.logger_lab4 log
+INFO: add, ind-4:  9417,000 HashMap
+окт. 29, 2023 4:47:16 PM lab4.logger_lab4 log
+INFO: add, ind-5:  9333,000 HashMap
+окт. 29, 2023 4:47:16 PM lab4.logger_lab4 log
+INFO: add, ind-6:  9250,000 HashMap
+окт. 29, 2023 4:47:16 PM lab4.logger_lab4 log
+INFO: add, ind-7:  9458,000 HashMap
+окт. 29, 2023 4:47:16 PM lab4.logger_lab4 log
+INFO: add, ind-8:  9084,000 HashMap
+окт. 29, 2023 4:47:16 PM lab4.logger_lab4 log
+INFO: add, ind-9:  9083,000 HashMap
+окт. 29, 2023 4:47:16 PM lab4.logger_lab4 log
+INFO: add, ind-10:  10292,000 HashMap
+окт. 29, 2023 4:47:16 PM lab4.logger_lab4 log
+INFO: totalTime: 3430042,000 HashMap
+окт. 29, 2023 4:47:16 PM lab4.logger_lab4 log
+INFO: remove ArrayList: 291,000 HashMap
+окт. 29, 2023 4:47:16 PM lab4.logger_lab4 log
+INFO: srTime: 9829,000 HashMap
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: Start program
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: ArrayList
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-1:  20375,000 ArrayList
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-2:  12875,000 ArrayList
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-3:  12125,000 ArrayList
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-4:  12334,000 ArrayList
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-5:  11541,000 ArrayList
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-6:  12000,000 ArrayList
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-7:  11209,000 ArrayList
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-8:  11042,000 ArrayList
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-9:  11208,000 ArrayList
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-10:  12209,000 ArrayList
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-11:  11208,000 ArrayList
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-12:  11292,000 ArrayList
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-13:  11542,000 ArrayList
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-14:  14625,000 ArrayList
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-15:  10833,000 ArrayList
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-16:  10084,000 ArrayList
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-17:  10667,000 ArrayList
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-18:  10042,000 ArrayList
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-19:  10333,000 ArrayList
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-20:  20500,000 ArrayList
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-21:  11375,000 ArrayList
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-22:  11083,000 ArrayList
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-23:  12375,000 ArrayList
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-24:  9625,000 ArrayList
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-25:  9792,000 ArrayList
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-26:  9250,000 ArrayList
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-27:  14166,000 ArrayList
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-28:  9250,000 ArrayList
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-29:  10250,000 ArrayList
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-30:  9750,000 ArrayList
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-31:  8500,000 ArrayList
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-32:  10084,000 ArrayList
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-33:  8542,000 ArrayList
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-34:  6417,000 ArrayList
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-35:  6959,000 ArrayList
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-36:  6333,000 ArrayList
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-37:  6333,000 ArrayList
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-38:  6000,000 ArrayList
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-39:  24958,000 ArrayList
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-40:  8916,000 ArrayList
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-41:  5167,000 ArrayList
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-42:  4708,000 ArrayList
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-43:  7584,000 ArrayList
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-44:  6375,000 ArrayList
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-45:  4667,000 ArrayList
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-46:  3916,000 ArrayList
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-47:  4000,000 ArrayList
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-48:  4292,000 ArrayList
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-49:  4125,000 ArrayList
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-50:  4875,000 ArrayList
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-51:  4042,000 ArrayList
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-52:  4166,000 ArrayList
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-53:  4000,000 ArrayList
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-54:  4625,000 ArrayList
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-55:  4166,000 ArrayList
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-56:  4708,000 ArrayList
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-57:  4167,000 ArrayList
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-58:  5666,000 ArrayList
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-59:  4542,000 ArrayList
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-60:  4125,000 ArrayList
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-61:  4791,000 ArrayList
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-62:  4167,000 ArrayList
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-63:  4667,000 ArrayList
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-64:  4166,000 ArrayList
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-65:  4458,000 ArrayList
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-66:  4209,000 ArrayList
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-67:  4333,000 ArrayList
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-68:  4000,000 ArrayList
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-69:  4542,000 ArrayList
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-70:  4125,000 ArrayList
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-71:  4584,000 ArrayList
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-72:  4042,000 ArrayList
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-73:  4584,000 ArrayList
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-74:  4417,000 ArrayList
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-75:  4167,000 ArrayList
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-76:  4209,000 ArrayList
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-77:  3917,000 ArrayList
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-78:  4042,000 ArrayList
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-79:  4583,000 ArrayList
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-80:  4167,000 ArrayList
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-81:  4584,000 ArrayList
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-82:  9666,000 ArrayList
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-83:  7500,000 ArrayList
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-84:  4041,000 ArrayList
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-85:  3875,000 ArrayList
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-86:  3958,000 ArrayList
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-87:  9417,000 ArrayList
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-88:  4333,000 ArrayList
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-89:  4000,000 ArrayList
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-90:  3958,000 ArrayList
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-91:  4541,000 ArrayList
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-92:  4167,000 ArrayList
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-93:  4083,000 ArrayList
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-94:  6875,000 ArrayList
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-95:  4084,000 ArrayList
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-96:  4542,000 ArrayList
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-97:  4417,000 ArrayList
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-98:  4084,000 ArrayList
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-99:  4417,000 ArrayList
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-100:  3625,000 ArrayList
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: totalTime: 21795667,000 ArrayList
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: remove ArrayList: 15125,000
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: srTime ArrayList: 7282,000
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: Start program
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: ArrayList
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-1:  5959,000 HashMap
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-2:  5125,000 HashMap
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-3:  5500,000 HashMap
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-4:  4375,000 HashMap
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-5:  4000,000 HashMap
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-6:  4000,000 HashMap
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-7:  4459,000 HashMap
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-8:  5709,000 HashMap
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-9:  6041,000 HashMap
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: add, ind-10:  4375,000 HashMap
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: totalTime: 1275000,000 HashMap
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: remove ArrayList: 292,000 HashMap
+окт. 29, 2023 4:47:27 PM lab4.logger_lab4 log
+INFO: srTime: 4954,000 HashMap
